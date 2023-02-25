@@ -1,0 +1,49 @@
+From c8a0f6691170c4e7ac0bfc195329e2e71be7449e Mon Sep 17 00:00:00 2001
+From: name29 <us1er@gmail.com>
+Date: Fri, 24 Feb 2023 11:49:29 +0100
+Subject: [PATCH] slim patch
+
+---
+ common/common-vendor.mk | 9 ---------
+ 1 file changed, 9 deletions(-)
+
+diff --git a/common/common-vendor.mk b/common/common-vendor.mk
+index eebfcb1..1d841c1 100644
+--- a/common/common-vendor.mk
++++ b/common/common-vendor.mk
+@@ -38,24 +38,16 @@ PRODUCT_PACKAGES += \
+     GooglePackageInstaller \
+     TagGoogle \
+     CalculatorGooglePrebuilt \
+-    CalendarGooglePrebuilt \
+-    Chrome-Stub \
+-    Drive \
+     GoogleContacts \
+     GoogleTTS \
+     LatinIMEGooglePrebuilt \
+     LocationHistoryPrebuilt \
+-    Maps \
+     MarkupGoogle \
+-    Photos \
+     PrebuiltDeskClockGoogle \
+-    PrebuiltGmail \
+     SoundPickerPrebuilt \
+     TrichromeLibrary-Stub \
+     WebViewGoogle-Stub \
+-    YouTube \
+     talkback \
+-    AndroidAutoStubPrebuilt \
+     ConfigUpdater \
+     DeviceIntelligenceNetworkPrebuilt \
+     DevicePersonalizationPrebuiltPixel2020 \
+@@ -71,7 +63,6 @@ PRODUCT_PACKAGES += \
+     SettingsIntelligenceGooglePrebuilt \
+     SetupWizardPrebuilt \
+     TurboPrebuilt \
+-    Velvet \
+     WellbeingPrebuilt \
+     GoogleFeedback \
+     Flipendo \
+-- 
+2.34.1
+
