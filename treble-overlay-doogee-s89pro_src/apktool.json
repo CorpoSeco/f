@@ -1,0 +1,23 @@
+{
+  "apkFileName": "treble-overlay-doogee-s89pro_src.apk",
+  "VersionInfo": {
+    "versionName": "1.0",
+    "versionCode": "1"
+  },
+  "UsesFramework": {
+    "ids": [1],
+    "tag": null
+  },
+  "unknownFiles": {},
+  "PackageInfo": {
+    "forcedPackageId": "127",
+    "renameManifestPackage": null
+  },
+  "doNotCompress": ["resources.arsc"],
+  "isFrameworkApk": false,
+  "compressionType": false,
+  "sparseResources": true,
+  "version": "2.4.0-221113",
+  "sharedLibrary": false,
+  "sdkInfo": null
+}

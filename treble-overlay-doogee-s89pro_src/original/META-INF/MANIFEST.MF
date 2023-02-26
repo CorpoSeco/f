@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA1-Digest: 8Hd4twRIQyz7YKRwZY/9zmGapGI=
+
+Name: res/xml/power_profile.xml
+SHA1-Digest: cYOnHYtLCnWEg58C4yeWyss0EBE=
+
+Name: resources.arsc
+SHA1-Digest: WCD7tj1my/GHpZ8RYrYFrhXSHDs=
+

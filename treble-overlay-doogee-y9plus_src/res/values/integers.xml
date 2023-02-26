@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="config_autoBrightnessBrighteningLightDebounce">3000</integer>
+    <integer name="config_autoBrightnessDarkeningLightDebounce">8000</integer>
+    <integer name="config_brightness_ramp_rate_fast">180</integer>
+    <integer name="config_brightness_ramp_rate_slow">60</integer>
+    <integer name="config_lockSoundVolumeDb">-6</integer>
+    <integer name="config_lowBatteryAutoTriggerDefaultLevel">15</integer>
+    <integer name="config_lowBatteryCloseWarningBump">5</integer>
+    <integer name="config_lowBatteryWarningLevel">15</integer>
+    <integer name="config_multiuserMaximumUsers">4</integer>
+    <integer name="config_ntpRetry">6</integer>
+    <integer name="config_shutdownBatteryTemperature">680</integer>
+    <integer name="config_soundEffectVolumeDb">-6</integer>
+</resources>

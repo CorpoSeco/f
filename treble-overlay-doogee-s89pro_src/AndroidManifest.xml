@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    package="me.phh.treble.overlay.doogee.s89pro"
+    platformBuildVersionCode="27"
+    platformBuildVersionName="8.1.0"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <overlay
+        android:priority="484"
+        android:targetPackage="android"
+        android:isStatic="true"
+        android:requiredSystemPropertyName="ro.vendor.build.fingerprint"
+        android:requiredSystemPropertyValue="+DOOGEE/S89Pro/S89Pro*" />
+</manifest>
